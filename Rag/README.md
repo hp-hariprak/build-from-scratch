@@ -13,9 +13,8 @@ It is meant for learning, testing, and prototyping ideas around document retriev
 ## How to Use
 
 1. Clone this repository.
-2. Read the requirements file.
-3. Install the needed dependencies.
-4. Run the scripts and experiment with the pipeline.
+2. Install the needed dependencies.
+3. Run the scripts and experiment with the pipeline.
 
 ## Goal
 
